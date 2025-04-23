@@ -28,11 +28,12 @@
  - ユーザー登録
  - ログイン、ログアウト機能
  - 勝ち鞍保存機能(タイマー履歴)
+ - 効果音(ゲート音、走る音、歓声の音など)
 - ~~歴代名馬紹介機能~~
 ## 機能実装予定
 - フロントエンド：Tailwind CSS,Javascript,React
 - バックエンド：Ruby on Rails
 ## 画面遷移図
-
+Figma：https://www.figma.com/design/eptmkylcbeMWIppeYBn9Qd/Jockey-Timer?node-id=0-1&t=sbtOn6yJURiOCWe7-1
 ## ER図
 
